@@ -1,2 +1,2 @@
 # GitTest
-ez csak egy próba
+csá - sulicucli
