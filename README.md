@@ -1,2 +1,2 @@
-# gittest
-ez csak egy próba // its just a drill -sulicuc
+# GitTest
+ez csak egy próba
